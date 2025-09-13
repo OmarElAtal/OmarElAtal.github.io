@@ -2,96 +2,127 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Omar Moustafa Hassan El Atal
+    - name: Headline
+      value: Undergraduate in Biology & Biotechnology · Aspiring Cancer Genomics Researcher · Advocate for Health & Environmental Action
+    - name: Location
+      value: Casablanca, Morocco
+    - name: LinkedIn
+      value: <a href="https://www.linkedin.com/in/omar-moustafa-hassan-el-atal">omar-moustafa-hassan-el-atal</a>
     - name: Languages
-      value: English, German
+      value: Arabic (native), English (C2), French (B2)
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: B.Sc. in Biology & Biotechnology
+      institution: Faculté des Sciences Aïn Chock, Université Hassan II
+      year: 2023 – 2026 (expected)
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Ranked 1st in Cell Biology out of 1500+ students.
+        - Semester GPAs: 14.72/20, 14.20/20, 14.18/20 (Mention Bien).
+    - title: Baccalauréat (Earth & Life Sciences, French Option)
+      institution: Bir Anzarane High School, Casablanca
+      year: 2020 – 2023
       description:
-        - Description 1.
-        - Description 2.
+        - Excellence Award; student council representative.
 
-- title: Experience
+- title: Research Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+    - title: Co-author — Meta-analysis on Molecular Markers in Colorectal Cancer
+      institution: Université Hassan II
+      year: April 2025 – Present
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Internships
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Intern — Oncology & Cell Therapy Laboratory
+      institution: Institut Pasteur du Maroc
+      year: July 2025 – August 2025
+    - title: Intern — Pathophysiology, Molecular Genetics & Biotechnology Laboratory
+      institution: Faculté des Sciences Aïn Chock
+      year: March 2025 – July 2025
 
-- title: Honors and Awards
+- title: Honors & Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2025
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+        - University Medal for Excellence in Extracurricular Activities (Top 0.2% of students)
 
-- title: Academic Interests
-  type: nested_list
+- title: Projects
+  type: time_table
   contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+    - title: Transcriptomic signature project (details withheld)
+      year: September 2025 – Present
+    - title: Molecular Dynamics project (details withheld)
+      year: July 2025 – Present
+
+- title: Courses & Workshops
+  type: time_table
+  contents:
+    - title: Foundations of Deep Learning for Biomedical Applications
+      institution: School of Biotechnology, Nile University (online)
+      year: Aug 2025 – Oct 2025 (ongoing)
+    - title: Next-Generation Sequencing (NGS) — RNA-Seq Data Analysis Workshop
+      institution: Biocompiler (online)
+      year: Jan 2025 – Apr 2025
+    - title: Practical Molecular Dynamics Workshop
+      institution: Laboratoire d’Immunologie et Biodiversité — GMB team (Casablanca, Morocco)
+      year: Jun 2025
+    - title: Introduction to Reproducibility in Cancer Informatics
+      institution: Johns Hopkins University (online)
+      year: Aug 2025
+    - title: Computing for Cancer Informatics
+      institution: Johns Hopkins University (online)
+      year: Aug 2025
+    - title: Introduction à la Statistique avec R
+      institution: Université Paris-Saclay (online)
+      year: Feb 2025 – Apr 2025
+
+- title: Leadership
+  type: time_table
+  contents:
+    - title: Undergraduate Representative — Institutional Self-Evaluation Committee
+      institution: Faculté des Sciences Aïn Chock
+      year: May 2025 – Aug 2025
+    - title: Environmental Cell Lead & Vice-Event Coordinator — FSAC Health Club
+      institution: Faculté des Sciences Aïn Chock
+      year: Sep 2024 – Jul 2025
+
+- title: Volunteering & Outreach
+  type: time_table
+  contents:
+    - title: Volunteer — Lalla Salma Foundation, Pediatric Hematology-Oncology Service (Hôpital 20 Août 1953, CHU Ibn Rochd)
+      year: Sep 2025 – Present
+    - title: Volunteer — JOOD
+      year: Sep 2024 – Present
+    - title: Citizen Science Volunteer — Zooniverse
+      year: Jan 2025 – Present
+    - title: Grant Writing Intern — Save Ancient Studies Association (SASA)
+      year: Sep 2025 – Present
+    - title: Content Writing Intern — ForgetMeNot International
+      year: Aug 2025 – Present
+
+- title: Professional Memberships
+  type: list
+  contents:
+    - European Society for Medical Oncology (ESMO)
+    - American Society of Clinical Oncology (ASCO)
+    - Association for Molecular Pathology (AMP)
+
+- title: Skills
+  type: list
+  contents:
+    - Bioinformatics: Deep Learning (PyTorch), RNA-Seq, Linux, Bash, Cytoscape, Programming (R, Python), Statistics (Regression, ANOVA, Survival Analysis), Jupyter, Git/GitHub, Conda, HPC/cloud computing
+    - Structural Biology: Docking (AutoDock Vina), Molecular Dynamics (GROMACS), PyMOL
+    - Lab Techniques: PCR, Electrophoresis, DNA Extraction, Microbiology
+    - Research & Communication: Meta-analysis, Scientific Writing, Presentations, Grant Writing
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - Reading (contemporary & classic literature)
+    - Musical composition & piano
+    - Chess

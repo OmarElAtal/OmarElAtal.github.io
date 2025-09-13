@@ -1,1 +1,0 @@
-Hey there! I'm Omar, an undergraduate biology and biotechnology student with a deep passion for genetics, cancer biology, and bioinformatics. Beyond the lab, I enjoy volunteering, reading, composing music, and playing chess. Feel free to reach out if you'd like to chat about research, potential opportunities, or even just to swap book recommendations!
