@@ -445,14 +445,14 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/https://www.linkedin.com/in/omar-moustafa-hassan-el-atal/", "_blank");
+          window.open("https://www.linkedin.com/in/omar-moustafa-hassan-el-atal", "_blank");
         },
       },{
         id: 'social-researchgate',
         title: 'ResearchGate',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.researchgate.net/profile/https://www.researchgate.net/profile/Omar-Moustafa-Hassan-El-Atal/", "_blank");
+          window.open("https://www.researchgate.net/profile/Omar-Moustafa-Hassan-El-Atal/", "_blank");
         },
       },{
       id: 'light-theme',
