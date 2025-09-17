@@ -26,8 +26,6 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-<div style="display: flex; align-items: flex-start; gap: 30px;">
-  <div style="flex: 1; font-size: 1.1rem; line-height: 1.5;">
     Hey there! I'm Omar, an undergraduate biology and biotechnology student with a deep passion for genetics, cancer biology, and bioinformatics. Beyond the lab, I enjoy volunteering, reading, composing music, and playing chess. Feel free to reach out if you'd like to chat about research, potential opportunities, or even just to swap book recommendations!
   </div>
 </div>
